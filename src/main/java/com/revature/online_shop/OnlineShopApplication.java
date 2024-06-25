@@ -16,7 +16,7 @@ public class OnlineShopApplication {
 		SpringApplication.run(OnlineShopApplication.class, args);
 		System.out.println("Application Started ");
 
-		System.out.println("hello xttttttxxxffddddddd355353534444444 ++++++++ ");
+		System.out.println("helloccccc xttttttxxxffddddddd355353534444444 ++++++++ ");
 
 	}
 
